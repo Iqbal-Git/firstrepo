@@ -1,3 +1,5 @@
 this is dd file
 
 updated online
+
+updated offline
